@@ -12,13 +12,13 @@ import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
 
-  apiKey: "AIzaSyCR8z_ypk4VfY2y0AnPSxpLTN88qff7MNo",
-  authDomain: "taskmanager-6b1b0.firebaseapp.com",
-  projectId: "taskmanager-6b1b0",
-  storageBucket: "taskmanager-6b1b0.firebasestorage.app",
-  messagingSenderId: "775464226486",
-  appId: "1:775464226486:web:4c45f643ad3ccc6deca017",
-  measurementId: "G-EVQEBX44T9"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 
 };
 
